@@ -127,9 +127,9 @@ model/
 
 ## 👨‍💻 Authors
 
-- **[Your Name]** – ML Engineer & Developer
-- **[Collaborator Name]** – Deep Learning & Backend
-- **[Contributor Name]** – UI/UX & Deployment
+- **Ritesh Patil** – ML Engineer & Developer
+- **Ritesh/Raj** – Deep Learning & Backend
+- **Pranav Patil** – UI/UX & Deployment
 
 ## 📃 License
 

@@ -125,11 +125,6 @@ model/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 👨‍💻 Authors
-
-- **Ritesh Patil** – ML Engineer & Developer
-- **Ritesh/Raj** – Deep Learning & Backend
-- **Pranav Patil** – UI/UX & Deployment
 
 ## 📃 License
 
